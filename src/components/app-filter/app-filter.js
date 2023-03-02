@@ -16,7 +16,7 @@ const AppFilter = () => {
 			<button 
 			className="btn btn-outline-light"
 			type='button'>
-					З/П больше 50.000 руб.
+					З/П больше 50000 руб.
 			</button>
 		</div>
 	)
